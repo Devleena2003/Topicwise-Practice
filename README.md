@@ -1,2 +1,2 @@
 # Topicwise-Practice
-In this repo I will store topicwise important DSA question & answer 
+In this repo I am adding topicwise important DSA questions & answers 
